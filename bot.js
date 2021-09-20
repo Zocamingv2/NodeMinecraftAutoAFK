@@ -20,7 +20,8 @@ var client = mc.createClient({
     host: config.server_host,
     port: config.server_port,
     username: config.username,
-    password: config.password
+    password: config.password,
+    auth: config.auth
 });
 
   
