@@ -7,7 +7,7 @@
  1. 安装NodeJS环境
  2. 修改config.js的账号密码服务器地址（包括验证方式）
  3. 在Minecraft中保护自己并手持食物下线
- 4. 运行bot.js
+ 4. 运行main.js
 
 ## 二、依赖
 
@@ -19,4 +19,4 @@
 
 ## 四、感谢
 
-[node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
+[minflayer](https://github.com/PrismarineJS/mineflayer)
